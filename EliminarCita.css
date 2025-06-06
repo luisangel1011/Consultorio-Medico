@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+
+}
+
+.izquierda{
+    padding-left: 27%;
+    padding-right: 1%;
+}
+
+.casilla:hover{
+    background-color: rgb(103, 232, 255);
+    cursor: pointer;
+    
+    
+}
+table{
+    font-size: 12px;
+}
+th{
+   padding: 2%; 
+}

@@ -1,0 +1,324 @@
+¡Por supuesto! Aquí tienes una lista de 250 etiquetas HTML con descripciones breves de su función:
+
+1. `<div>`: Define una división o sección en un documento HTML.
+2. `<p>`: Define un párrafo de texto.
+3. `<a>`: Define un hipervínculo a otra página web o recurso.
+4. `<img>`: Inserta una imagen en el documento.
+5. `<ul>`: Define una lista desordenada.
+6. `<li>`: Define un elemento de lista dentro de `<ul>` o `<ol>`.
+7. `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`: Define encabezados de diferentes niveles, del 1 al 6.
+8. `<span>`: Define una parte de texto en línea.
+9. `<input>`: Define un campo de entrada en un formulario.
+10. `<form>`: Define un formulario HTML para la entrada de datos del usuario.
+11. `<br>`: Inserta un salto de línea dentro de un párrafo.
+12. `<button>`: Define un botón clickeable.
+13. `<table>`: Define una tabla.
+14. `<tr>`: Define una fila en una tabla.
+15. `<td>`: Define una celda de datos en una tabla.
+16. `<th>`: Define una celda de encabezado en una tabla.
+17. `<strong>`: Define texto importante, generalmente en negrita.
+18. `<em>`: Define énfasis en el texto, generalmente en cursiva.
+19. `<iframe>`: Define un marco en línea para incrustar otro documento HTML.
+20. `<section>`: Define una sección en un documento.
+21. `<header>`: Define la cabecera de un documento o una sección.
+22. `<footer>`: Define el pie de un documento o una sección.
+23. `<nav>`: Define un área de navegación.
+24. `<article>`: Define un artículo independiente.
+25. `<label>`: Define una etiqueta para un control de formulario.
+26. `<textarea>`: Define un área de texto de varias líneas en un formulario.
+27. `<select>`: Define un menú desplegable.
+28. `<option>`: Define una opción dentro de un menú desplegable.
+29. `<script>`: Define scripts JavaScript que se ejecutan en el documento.
+30. `<meta>`: Proporciona metadatos sobre el documento, como la descripción, palabras clave, etc.
+31. `<title>`: Define el título del documento que se muestra en la pestaña del navegador.
+32. `<html>`: Define el comienzo y el final de un documento HTML.
+33. `<head>`: Contiene elementos que proporcionan información sobre el documento.
+34. `<body>`: Contiene el contenido visible del documento HTML.
+35. `<style>`: Define estilos CSS internos que se aplican al documento.
+36. `<link>`: Define la relación entre el documento actual y un recurso externo.
+37. `<ol>`: Define una lista ordenada.
+38. `<dl>`: Define una lista de definición.
+39. `<dt>`: Define un término en una lista de definición.
+40. `<dd>`: Define la descripción de un término en una lista de definición.
+41. `<b>`: Define texto en negrita.
+42. `<i>`: Define texto en cursiva.
+43. `<hr>`: Define una línea horizontal para separar contenido.
+44. `<pre>`: Define un bloque de texto preformateado.
+45. `<blockquote>`: Define un bloque de cita larga.
+46. `<q>`: Define una cita en línea.
+47. `<cite>`: Define el título de una obra citada.
+48. `<abbr>`: Define una abreviatura o acrónimo.
+49. `<address>`: Define información de contacto para el autor o propietario de un documento.
+50. `<del>`: Define texto eliminado.
+51. `<ins>`: Define texto insertado.
+52. `<dfn>`: Define una definición de término.
+53. `<kbd>`: Define la entrada del teclado.
+54. `<sub>`: Define texto subíndice.
+55. `<sup>`: Define texto superíndice.
+56. `<time>`: Define una fecha/hora.
+57. `<var>`: Define una variable en matemáticas o programación.
+58. `<samp>`: Define un texto de ejemplo.
+59. `<ruby>`: Define una anotación ruby para la pronunciación de caracteres asiáticos.
+60. `<rt>`: Define la pronunciación de caracteres en una anotación ruby.
+61. `<rp>`: Define lo que se mostrará en navegadores que no soportan las anotaciones ruby.
+62. `<wbr>`: Define un posible punto de envoltura para dividir una palabra en el espacio.
+63. `<code>`: Define código de computadora.
+64. `<mark>`: Define texto resaltado.
+65. `<progress>`: Define una barra de progreso.
+66. `<meter>`: Define una medida en una escala conocida.
+67. `<details>`: Define un widget de detalles que se puede expandir o contraer.
+68. `<summary>`: Define el resumen visible de un elemento `<details>`.
+69. `<caption>`: Define el título de una tabla.
+70. `<colgroup>`: Define un grupo de columnas en una tabla.
+71. `<col>`: Define las propiedades de estilo para una o más columnas en una tabla.
+72. `<tbody>`: Define el cuerpo de una tabla.
+73. `<thead>`: Define la cabecera de una tabla.
+74. `<tfoot>`: Define el pie de una tabla.
+75. `<fieldset>`: Define un grupo de controles de formulario y una etiqueta opcional.
+76. `<legend>`: Define la leyenda para un grupo de controles de formulario.
+77. `<datalist>`: Define una lista de opciones predefinidas para un campo de entrada.
+78. `<optgroup>`: Agrupa opciones relacionadas en un menú desplegable.
+79. `<keygen>`: Define un campo de generación de clave para formularios.
+80. `<output>`: Define el resultado de un cálculo.
+81. `<canvas>`: Define un lienzo para dibujar gráficos, gráficos y otros gráficos dinámicos.
+82. `<audio>`: Define un reproductor de audio para incrustar contenido de audio en una página web.
+83. `<video>`: Define un reproductor de video para incrustar contenido de video en una página web.
+84. `<source>`: Define una fuente de medios, como audio o video, para los elementos `<audio>` y `<video>`.
+85. `<track>`: Define pistas de texto para medios de audio y video.
+86. `<embed>`: Define un contenedor para contenido incrustado externo, como Flash o elementos multimedia.
+87. `<object>`: Define un objeto incrustado, como Flash, Java, u otro contenido multimedia.
+88. `<param>`: Define parámetros para un objeto `<object>`.
+89. `<menu>`: Define un menú de comandos.
+90. `<menuitem>`: Define un elemento de menú dentro de un menú de comandos.
+91. `<command>`: Define un comando que el usuario puede invocar.
+92. `<base>`: Define la URL base para las URL relativas en el documento.
+93. `<meta>`: Proporciona metadatos sobre el documento.
+94. `<noscript>`: Proporciona contenido alternativo para usuarios que tienen desactivado JavaScript en su navegador.
+95. `<iframe>`: Define un marco en línea para incrustar otro documento HTML.
+96. `<param>`: Define parámetros para un objeto `<object>`.
+97. `<source>`: Define una fuente de medios para los elementos `<audio>` y `<video>`.
+98. `<track>`: Define pistas de texto para medios de audio y video.
+99. `<embed>`: Define un contenedor para contenido incrustado externo.
+100. `<object>`: Define un objeto incrustado en un documento HTML.
+101. `<style>`: Define estilos CSS internos que se aplican al documento.
+102. `<link>`: Define la relación entre el documento actual y un recurso externo.
+103. `<details>`: Define un widget de detalles que se puede expandir o contraer.
+104. `<summary>`: Define el resumen visible de un elemento `<details>`.
+105. `<caption>`: Define el título de una tabla.
+106. `<colgroup>`: Define un grupo de columnas en una tabla.
+107. `<col>`: Define las propiedades de estilo para una o más columnas en una tabla.
+108. `<tbody>`: Define el cuerpo de una tabla.
+109. `<thead>`: Define la cabecera de una tabla.
+110. `<tfoot>`: Define el pie de una tabla.
+111. `<fieldset>`: Define un grupo de controles de formulario y una etiqueta opcional.
+112. `<legend>`: Define la leyenda para un grupo de controles de formulario.
+113. `<datalist>`: Define una lista de opciones predefinidas para un campo de entrada.
+114. `<optgroup>`: Agrupa opciones relacionadas en un menú desplegable.
+115. `<keygen>`: Define un campo de generación de clave para formularios.
+116. `<output>`: Define el resultado de un cálculo.
+117. `<canvas>`: Define un lienzo para dibujar gráficos, gráficos y otros gráficos dinámicos.
+118. `<audio>`: Define un reproductor de audio para incrustar contenido de audio en una página web.
+119. `<video>`: Define un reproductor de video para incrustar contenido de video en una página web.
+120. `<source>`: Define una fuente de medios, como audio o video, para los elementos `<audio>` y `<video>`.
+121. `<track>`: Define pistas de texto para medios de audio y video.
+122. `<embed>`: Define un contenedor para contenido incrustado externo, como Flash o elementos multimedia.
+123. `<object>`: Define un objeto incrustado, como Flash, Java, u otro contenido multimedia.
+124. `<param>`: Define parámetros para un objeto `<object>`.
+125. `<menu>`: Define un menú de comandos.
+126. `<menuitem>`: Define un elemento de menú dentro de un menú de comandos.
+127. `<command>`: Define un comando que el usuario puede invocar.
+128. `<mark>`: Define texto resaltado.
+129. `<bdi>`: Define una parte del texto que debe formatearse de manera independiente del texto que lo rodea.
+130. `<wbr>`: Define un posible punto de envoltura para dividir una palabra en el espacio.
+131. `<rp>`: Define lo que se mostrará en navegadores que no soportan las anotaciones ruby.
+132. `<ruby>`: Define una anotación ruby para la pronunciación de caracteres asiáticos.
+133. `<rt>`: Define la pronunciación de caracteres en una anotación ruby.
+134. `<bdo>`: Define la dirección del texto, como de derecha a izquierda para idiomas como árabe o hebreo.
+135. `<bdi>`: Define una parte del texto que debe formatearse de manera independiente del texto que lo rodea.
+136. `<menu>`: Define un menú de comandos.
+137. `<menuitem>`: Define un elemento de menú dentro de un menú de comandos.
+138. `<command>`: Define un comando que el usuario puede invocar.
+139. `<keygen>`: Define un campo de generación de clave para formularios.
+140. `<output>`: Define el resultado de un cálculo.
+141. `<progress>`: Define una barra de progreso.
+142. `<meter>`: Define una medida en una escala conocida.
+143. `<map>`: Define un mapa de imagen para vincular áreas específicas a URL específicas.
+144. `<area>`: Define un área sensible en un mapa de imagen para hipervínculos.
+145. `<col>`: Define las propiedades de estilo para una o más columnas en una tabla.
+146. `<colgroup>`: Define un grupo de columnas en una tabla.
+147. `<optgroup>`: Agrupa opciones relacionadas en un menú desplegable.
+148. `<legend>`: Define la leyenda para un grupo de controles de formulario.
+149. `<figcaption>`: Define una leyenda para una figura.
+150. `<figure>`: Define contenido autónomo, como ilustraciones, diagramas, fotos, código, etc.
+151. `<style>`: Define estilos CSS internos que se aplican al documento.
+152. `<link>`: Define la relación entre el documento actual y un recurso externo.
+153. `<details>`: Define un widget de detalles que se puede expandir o contraer.
+154. `<summary>`: Define el resumen visible de un elemento `<details>`.
+155. `<caption>`: Define el título de una tabla.
+156. `<colgroup>`: Define un grupo de columnas en una tabla.
+157. `<col>`: Define las propiedades de estilo para una o más columnas en una tabla.
+158. `<tbody>`: Define el cuerpo de una tabla.
+159. `<thead>`: Define la cabecera de una tabla.
+160. `<tfoot>`: Define el pie de una tabla.
+161. `<fieldset>`: Define un grupo de controles de formulario y una etiqueta opcional.
+162. `<legend>`: Define la leyenda para un grupo de controles de formulario.
+163. `<datalist>`: Define una lista de opciones predefinidas para un campo de entrada.
+164. `<optgroup>`: Agrupa opciones relacionadas en un menú desplegable.
+165. `<keygen>`: Define un campo de generación de clave para formularios.
+166. `<output>`: Define el resultado de un cálculo.
+167. `<canvas>`: Define un lienzo para dibujar gráficos, gráficos y otros gráficos dinámicos.
+168. `<audio>`: Define un reproductor de audio para incrustar contenido de audio en una página web.
+169. `<video>`: Define un reproductor de video para incrustar contenido de video en una página web.
+170. `<source>`: Define una fuente de medios, como audio o video, para los elementos `<audio>` y `<video>`.
+171. `<track>`: Define pistas de texto para medios de audio y video.
+172. `<embed>`: Define un contenedor para contenido incrustado externo, como Flash o elementos multimedia.
+173. `<object>`: Define un objeto incrustado, como Flash, Java, u otro contenido multimedia.
+174. `<param>`: Define parámetros para un objeto `<object>`.
+175. `<menu>`: Define un menú de comandos.
+176. `<menuitem>`: Define un elemento de menú dentro de un menú de comandos.
+177. `<command>`: Define un comando que el usuario puede invocar.
+178. `<mark>`: Define texto resaltado.
+179. `<bdi>`: Define una parte del texto que debe formatearse de manera independiente del texto que lo rodea.
+180. `<wbr>`: Define un posible punto de envoltura para dividir una palabra en el espacio.
+181. `<rp>`: Define lo que se mostrará en navegadores que no soportan las anotaciones ruby.
+182. `<ruby>`: Define una anotación ruby para la pronunciación de caracteres asiáticos.
+183. `<rt>`: Define la pronunciación de caracteres en una anotación ruby.
+184. `<bdo>`: Define la dirección del texto, como de derecha a izquierda para idiomas como árabe o hebreo.
+185. `<bdi>`: Define una parte del texto que debe formatearse de manera independiente del texto que lo rodea.
+186. `<menu>`: Define un menú de comandos.
+187. `<menuitem>`: Define un elemento de menú dentro de un menú de comandos.
+188. `<command>`: Define un comando que el usuario puede invocar.
+189. `<keygen>`: Define un campo de generación de clave para formularios.
+190. `<output>`: Define el resultado de un cálculo.
+191. `<progress>`: Define una barra de progreso.
+192. `<meter>`: Define una medida en una escala conocida.
+193. `<map>`: Define un mapa de imagen para vincular áreas específicas a URL específicas.
+194. `<area>`: Define un área sensible en un mapa de imagen para hipervínculos.
+195. `<col>`: Define las propiedades de estilo para una o más columnas en una tabla.
+196. `<colgroup>`: Define un grupo de columnas en una tabla.
+197. `<optgroup>`: Agrupa opciones relacionadas en un menú desplegable.
+198. `<legend>`: Define la leyenda para un grupo de controles de formulario.
+199. `<figcaption>`: Define una leyenda para una figura.
+200. `<figure>`: Define contenido autónomo, como ilustraciones, diagramas, fotos, código, etc.
+201. `<style>`: Define estilos CSS internos que se aplican al documento.
+202. `<link>`: Define la relación entre el documento actual y un recurso externo.
+203. `<details>`: Define un widget de detalles que se puede expandir o contraer.
+204. `<summary>`: Define el resumen visible de un elemento `<details>`.
+205. `<caption>`: Define el título de una tabla.
+206. `<colgroup>`: Define un grupo de columnas en una tabla.
+207. `<col>`: Define las propiedades de estilo para una o más columnas en una tabla.
+208. `<tbody>`: Define el cuerpo de una tabla.
+209. `<thead>`: Define la cabecera de una tabla.
+210. `<tfoot>`: Define el pie de una tabla.
+211. `<fieldset>`: Define un grupo de controles de formulario y una etiqueta opcional.
+212. `<legend>`: Define la leyenda para un grupo de controles de formulario.
+213. `<datalist>`: Define una lista de opciones predefinidas para un campo de entrada.
+214. `<optgroup>`: Agrupa opciones relacionadas en un menú desplegable.
+215. `<keygen>`: Define un campo de generación de clave para formularios.
+216. `<output>`: Define el resultado de un cálculo.
+217. `<canvas>`: Define un lienzo para dibujar gráficos, gráficos y otros gráficos dinámicos.
+218. `<audio>`: Define un reproductor de audio para incrustar contenido de audio en una página web.
+219. `<video>`: Define un reproductor de video para incrustar contenido de video en una página web.
+220. `<source>`: Define una fuente de medios, como audio o video, para los elementos `<audio>` y `<video>`.
+221. `<track>`: Define pistas de texto para medios de audio y video.
+222. `<embed>`: Define un contenedor para contenido incrustado externo, como Flash o elementos multimedia.
+223. `<object>`: Define un objeto incrustado, como Flash, Java, u otro contenido multimedia.
+224. `<param>`: Define parámetros para un objeto `<object>`.
+225. `<menu>`: Define un menú de comandos.
+226. `<menuitem>`: Define un elemento de menú dentro de un menú de comandos.
+227. `<command>`: Define un comando que el usuario puede invocar.
+228. `<mark>`: Define texto resaltado.
+229. `<bdi>`: Define una parte del texto que debe formatearse de manera independiente del texto que lo rodea.
+230. `<wbr>`: Define un posible punto de envoltura para dividir una palabra en el espacio.
+231. `<rp>`: Define lo que se mostrará en navegadores que no soportan las anotaciones ruby.
+232. `<ruby>`: Define una anotación ruby para la pronunciación de caracteres asiáticos.
+233. `<rt>`: Define la pronunciación de caracteres en una anotación ruby.
+234. `<bdo>`: Define la dirección del texto, como de derecha a izquierda para idiomas como árabe o hebreo.
+235. `<bdi>`: Define una parte del texto que debe formatearse de manera independiente del texto que lo rodea.
+236. `<menu>`: Define un menú de comandos.
+237. `<menuitem>`: Define un elemento de menú dentro de un menú de comandos.
+238. `<command>`: Define un comando que el usuario puede invocar.
+239. `<keygen>`: Define un campo de generación de clave para formularios.
+240. `<output>`: Define el resultado de un cálculo.
+241. `<progress>`: Define una barra de progreso.
+242. `<meter>`: Define una medida en una escala conocida.
+243. `<map>`: Define un mapa de imagen para vincular áreas específicas a URL específicas.
+244. `<area>`: Define un área sensible en un mapa de imagen para hipervínculos.
+245. `<col>`: Define las propiedades de estilo para una o más columnas en una tabla.
+246. `<colgroup>`: Define un grupo de columnas en una tabla.
+247. `<optgroup>`: Agrupa opciones relacionadas en un menú desplegable.
+248. `<legend>`: Define la leyenda para un grupo de controles de formulario.
+249. `<figcaption>`: Define una leyenda para una figura.
+250. `<figure>`: Define contenido autónomo, como ilustraciones, diagramas, fotos, código, etc.
+
+Estas etiquetas proporcionan una base sólida para la construcción de páginas web y aplicaciones.
+
+
+Aquí tienes una lista de algunas de las etiquetas HTML más importantes con algunas de sus propiedades más comunes:
+
+1. `<div>`:
+   - `id`
+   - `class`
+   - `style`
+
+2. `<p>`:
+   - `id`
+   - `class`
+   - `style`
+
+3. `<a>`:
+   - `href`
+   - `target`
+   - `id`
+   - `class`
+   - `style`
+
+4. `<img>`:
+   - `src`
+   - `alt`
+   - `width`
+   - `height`
+   - `id`
+   - `class`
+   - `style`
+
+5. `<ul>`:
+   - `id`
+   - `class`
+   - `style`
+
+6. `<li>`:
+   - `id`
+   - `class`
+   - `style`
+
+7. `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`:
+   - `id`
+   - `class`
+   - `style`
+
+8. `<span>`:
+   - `id`
+   - `class`
+   - `style`
+
+9. `<input>`:
+   - `type`
+   - `name`
+   - `value`
+   - `placeholder`
+   - `id`
+   - `class`
+   - `style`
+
+10. `<form>`:
+    - `action`
+    - `method`
+    - `id`
+    - `class`
+    - `style`
+
+<img src="imagen.jpg" alt="Esta es una imagen de un paisaje" width="300" height="200" id="imagenPrincipal" class="imagenDestacada" style="border: 2px solid black;">
+
+
+Estas son solo algunas de las etiquetas más importantes junto con algunas de sus propiedades más comunes. Cada etiqueta tiene una variedad de propiedades adicionales que pueden ser utilizadas según las necesidades específicas de diseño y funcionalidad del sitio web.

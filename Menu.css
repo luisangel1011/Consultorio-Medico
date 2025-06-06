@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('img/fondo.jpg');
+  background-size: 100vw 100vh;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+
+nav {
+  border: 3px solid black;
+  background-color: rgba(156, 224, 255, 0.8);
+  float: left;
+  display: block;
+  position: absolute;
+  height: 100%;
+  width: 40%;
+  z-index: 1;
+  border-radius: 0px;
+  border-color: black;
+  transform: translate(-35%, -1%);
+}
+
+/* @keyframes sacar {
+  0% {
+      transform: translate(-84%, -2%);
+  }
+  100% {
+      transform: translate(-1%, -2%);
+  }
+} */
+
+/* nav:hover {
+  animation: sacar 0.2s ease-in-out;
+  transform: translate(-1%, -2%);
+} */
+.Perfil{
+  text-align: center;
+  background-color: rgb(117, 211, 255);
+  
+  
+  }
+
+nav ul a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+ul {
+  float: right;
+  font-family:Arial, Helvetica, sans-serif;
+
+  width: 60%;
+}
+
+ul .separacion{
+  padding-right: 20%;
+  display: none;
+  list-style: none;
+  /* background-color: rgb(114, 214, 214); */
+  border-radius: 8%;
+
+  }
+  
+ 
+    
+
+a {
+  padding: 10px;
+  font-size: 25px;
+  text-align: center;
+  color: black;
+}
+
+.separacion a {
+  font-size: 18px;
+}
+a:hover {
+  border-radius: 10px;
+  font-style: oblique;
+  background-color: aqua;
+}
+
+
+
+.ventana {
+  height: 800px; /* Cambiado para ajustarse al 50% del alto de la ventana */
+}
+
+.logo{
+  
+  padding-left: 25%;
+}
+

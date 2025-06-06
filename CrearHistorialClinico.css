@@ -1,0 +1,65 @@
+.pagina{
+    float: right;
+    border: 1px solid black;
+    width: 73%;
+}
+
+#txt label{
+    padding: 10px;
+    display: flex;
+    align-items:center;
+   
+ }
+ #txt  li{
+     padding: 10px;
+     display: flex;
+     align-items:center;
+    
+  }
+ 
+ #txt{
+     width: 98%;
+     border: 1px solid black;
+     background-color: white;
+ }
+
+ #agregarP, #agregarM,#agregarPP, #agregarETS{
+    float: right;
+    
+    font-size: 40px;
+    padding-bottom: 15px;
+    display:contents;
+ }
+
+ #agregarP:hover, #agregarM:hover, #agregarPP:hover, #agregarETS:hover{
+    color: rgb(80, 80, 80);
+    cursor: pointer;
+ }
+
+
+ textarea {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    font-size: 16px;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+
+
+.PadecimientoActual table{
+    font-size: 130%;
+    width: 100%;
+}
+
+.PadecimientoActual input{
+width: 30px;
+border: none;
+outline: none;
+border-bottom: 1px black solid;
+}
+
+.PadecimientoActual input:focus{
+   background-color: rgb(180, 180, 180);
+    }

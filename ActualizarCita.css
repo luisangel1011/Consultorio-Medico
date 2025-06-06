@@ -1,0 +1,67 @@
+
+button{
+    font-size: 30px;
+   border-radius: 10px;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+input{
+    font-size: 20px;
+}
+
+.SelectCitas, .Citas{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.Citas:hover,.SelectCitas:hover{
+    color: rgb(0, 0, 146);
+    font-style:italic;
+}
+
+.izquierda{
+   
+    
+    width: 70%;
+    float: right;
+   
+}
+
+
+.izquierda table{
+    font-size: 140%;
+    background-color: white;
+}
+
+.casilla:hover{
+    background-color: rgb(103, 232, 255);
+    cursor: pointer;
+    
+    
+}
+.contenido{
+    background-color: rgb(255, 255, 255,0.1);
+    padding-top: 10%;
+    padding-bottom: 12%;
+    padding-right: 1%;
+    position:absolute;
+    transform: translate(-2%,0%);
+    width: 99%;
+    backdrop-filter: blur(0.2rem);
+
+   
+    
+}
+
+
+.btnActualizar:hover{
+cursor:pointer;
+font-style:italic;
+background-color: rgb(180, 180, 180);
+}

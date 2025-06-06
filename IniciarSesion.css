@@ -1,0 +1,71 @@
+body{
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+    background-image: url('img/fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+input{
+    border-style:outset;
+    background-color:white;
+    
+    padding-left: 12px;
+    font-size: 30px;
+}
+
+.btnIngresar{
+   
+    color: black;
+    padding: 20px ;
+    text-align: center;
+    background-color: rgb(255, 255, 255,0.8);           
+    border-radius:20px ;
+   
+}
+.btnIngresar:hover{
+    background-color:rgb(180,180,180);
+    border-radius: 20px;
+    color: black;
+}
+
+.Plantilla{
+    padding-top: 5%;
+}
+h1{
+    display: block;
+    padding: 10px;
+   
+    font-style:oblique;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.txt,input{
+    display: inline-block;
+}
+.btnIngresar,.btnRegistrar{
+    cursor:pointer;
+}
+.btnRegistrar{
+   color:  blue;
+   text-decoration:underline;
+}
+.btnRegistrar:hover{
+    color:  rgb(0, 0, 177);
+   font-style:initial;
+}
+.Registro{
+    z-index: 1;
+    position: absolute;
+    background-color: rgb(255, 255, 255,0.5);
+    backdrop-filter: blur(0.2rem);
+    display: none;
+}
+
+
+input:focus{
+    background-color:rgb(218, 218, 218);
+}

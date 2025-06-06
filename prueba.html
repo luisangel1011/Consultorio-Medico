@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Custom Select</title>
+<style>
+  /* Estilos básicos */
+  .custom-select {
+    position: relative;
+    width: 200px;
+  }
+
+  .select-selected {
+    background-color: #f1f1f1;
+    padding: 8px 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .select-items div {
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+
+  .select-items {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-top: none;
+    z-index: 99;
+  }
+
+  .select-items div:hover {
+    background-color: #ddd;
+  }
+
+  .select-selected::after {
+    content: '\25BC';
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+  }
+
+  .select-hide {
+    display: none;
+  }
+
+  /* Estilos para mostrar las opciones cuando se enfoca el select */
+  .custom-select:focus .select-items {
+    display: block;
+  }
+</style>
+</head>
+<body>
+
+<div class="custom-select">
+  <select>
+    <option value="1">Opción 1</option>
+    <option value="2">Opción 2</option>
+    <option value="3">Opción 3</option>
+  </select>
+</div>
+
+</body>
+</html>
